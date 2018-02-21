@@ -30,3 +30,9 @@ ctrl+c
 :clear
 :load built-in-types-sandbox.ts
 ```
+
+## run classes-sandbox.ts
+```
+:clear
+:load classes-sandbox.ts
+```
