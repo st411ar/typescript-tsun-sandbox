@@ -25,14 +25,8 @@ tsun
 ctrl+c
 ```
 
-## run built-in-types-sandbox.ts
+## run file.ts
 ```
 :clear
-:load built-in-types-sandbox.ts
-```
-
-## run classes-sandbox.ts
-```
-:clear
-:load classes-sandbox.ts
+:load file.ts
 ```
