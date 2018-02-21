@@ -36,3 +36,17 @@ var nate2 = {
 };
 
 nate2.printGuitars();
+
+
+var firstName = "Nate";
+var lastName = "Murray";
+var greeting = `Hello ${firstName} ${lastName}`;
+console.log(greeting);
+
+var template = `
+<div>
+	<h1>Hello</h1>
+	<p>This is a great website</p>
+</div>
+`;
+console.log(template);
